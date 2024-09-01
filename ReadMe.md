@@ -10,7 +10,7 @@ This C# project demonstrates the implementation of the Proxy Design Pattern usin
 
 ## Design
 
-![UML Diagram](images/uml_proxyapp.jpeg)
+![UML Diagram](images/uml_proxyapp.jpg)
 
 ## Technologies Used
 - **C#**
